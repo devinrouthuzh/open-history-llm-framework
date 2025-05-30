@@ -21,7 +21,7 @@ For part 3:
 
 #### Setting up repo
 ```bash
-git clone https://github.com/yourrepo/open-history ## needs to be adapted
+git clone https://github.com/devinrouthuzh/open-history-llm-framework.git
 cd open-history-llm-framework
 ```
 
