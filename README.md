@@ -1,4 +1,4 @@
-# Open history LLM framework 
+# Open History LLM Framework
 
 ### Features
 
