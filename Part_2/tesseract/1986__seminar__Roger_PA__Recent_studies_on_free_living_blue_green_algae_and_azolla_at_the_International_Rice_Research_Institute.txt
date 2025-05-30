@@ -1,0 +1,641 @@
+\\?
+
+%
+
+! RECENT STUDIES ON FREE-LIVING BLUE-GREEN ALGAE AND
+AZOLLA AT THE INTERNATIONAL RICE RESEARCH INSTITUTE
+
+P.A. ROGER’ and I. WATANABE
+The International Rice Research Institute
+Los Bafios, Laguna, Philippines
+
+Semmary. Major findings in 1985-86 at the International Rice Research Institute (IRR1) on
+‘+ ecology and practical utilization of free-living and symbiotic blue-green algae (BGA) are
+summarized. They cover the chemical composition of cultures and natural samples of N2fixing BGA from rice fields ; abundance of heterocystous BGA in rice soils and soil-based
+inocula ; dynamics of algal populations and acetylene reducing activity in soils inoculated with .
+BGA ; soil properties and Azolla growth ; Azoila response to P.K. Zn in various soils in relation
+’ to floodwater chemistry ; Azolia insect pests ; and availability of Azolla N to rice.
+
+- During the last 10 years, IRRI has initiated a dynamic research program in
+
+the field of biofertilizers and biological nitrogen fixation (BNF). The goal is to obtain
+
+_ good rice yields with the lowest possible use of chemical N fertilizer by utilizing N2fixing organisms and farm-grown source of nutrients. The objectives are :
+@ to collect, identify, and conserve N2-fizing organisms from rice soils ;
+
+'@ to determine N fixed by these organisms and the factors influencing their activity;
+¢ to develop methods and cultural practices enhancing BNF in rice fields ;
+
+'- @ to establish with scientists from selected countries a cooperative research
+network on BNF in rice fields ; and
+
+® to train scientists who can strengthen the national capabilities for conducting
+research on BNF.
+
+Recent reviews by IRRI authors summarize the current status of knowledge
+and practical utilization of BNF in rice fields (Watanabe and Roger, 1984; Watanabe,
+1985; Roger and Watanabe, 1986).
+
+BNF research programs at IRRI are supported by the United Nations
+Development Programme (UNDP). Results are extended to national research systems
+through the International Network for Soil Fertility and Fertilizer Evaluation for
+
+_ Rice {INSFFER), supported by the Government of Switzerland.
+
+RESEARCH ON FREE-LIVING BLUE-GREEN ALGAE.
+
+Agronomic interest in BGA'started in the 1930s when De attributed the high
+spontaneous fertility of submerged rice soils to BGA. Since then, BGA has been
+cited as'a° “promising potential source of nitrogen for rice", many trials of algal
+inoculation have been conducted in rice growing countries, and inoculation of rice
+fields with BGA’ has been recommended (Venkataraman, 1981). In 1986, BGA is
+still-only “promising”, and the only technology proposed to farmers (aigalization) is
+
+a Soil Microbiologist, ORSTOM (France), Visiting Scientist at IRRI
+
+Paper presented at the 2nd International Conference of the
+African Association for BNF ~ Cairo - December 1986
+Notice:
+The PDFs of journal articles and other documents ‘tha IRRI Library provides, may be protected by copyright Law, in which
+
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permissi
+ra) copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+
+conducted on a “trial and error” basis and not utilized to a noticeable extent.
+Despite 50 years of research on BGA, our knowledge of their practical utilisation
+has made relatively little progress because of these major reasons 
+ance between test tube and field studies : Although most
+research projects on BGA sought the practical utilisation of BGA, ecological and
+agronomical field ties ace rare.
+
+experiments - Most experiments give no information on the environiiental
+characteristics, the initial level of indigenous N2-fixring BGA in the soil, the
+dynamics of the algal flora during the crop cycle, the fate of inoculated BGA, their
+influence on BNF and other factors involved in the yield increase. Therefore, little
+is known about the factors that permit the development of a bloom of indigenous
+or inoculated BGA in a field.
+
+, erestimation of the potential of indigenous strains : Till recently,
+almost ali studies have placed emphasis on inoculation with foreign strains
+selected in the laboratory. Little attention was given to indigenous strains (already
+adapted to the environmental conditions), agricultural practices that favor their
+growth, and integrated management.
+
+Therefore, the BGA research program at IRRI has given priority to field
+studies with emphasis on the occurrence of BGA in rice soils, their composition and
+biomass, composition of BGA inocula, fate af inoculated BGA, changes in BGA
+populations and N2-fixing activity in inoculated soils, and agricultural practices
+favoring BGA growth. Major results obtained during the last two years are
+summarized thereafter. Earlier studies had been summarized (Roger and
+Watanabe, 1982)
+
+CHEMICAL COMPOSITION OF CULTURES AND NATURAL SAMPLES OF N2FIXING BGA FROM RICE FIELDS { Roger et al 1985, Roger et al 1986)
+
+Seventy samples of N2-fixing BGA 1) grown in liquid medium in the
+laboratory, 2) grown on soil in a greenhouse, and 3} collected from rice fields, were
+studied.
+
+Dry matter content averaged 4 %. A Arschere//a sp. showed the highest value
+(13%). The lowest values (< 1 %} were recorded for genera forming mucilaginous
+colonies ( Gloeotrichia , Aphanothece, Nostoc). High variability of dry matter
+content (CV = 50 to 80%) was due partly to the nature of the strain (mucilaginous
+BGA have less dry matter than nonmucilaginous ones). However, high variability
+was also observed between species of the same genus (Anmebazena : 1.0 to 8.5%;
+Nostoc : 0.28 to 6.3 % ).
+
+Ash content of laboratory cultures averaged 7.4% of the dry weight, that of |
+field samples averaged 45%, ranging from 27 to 71%.
+
+Notice:
+
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permiss
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational yse.
+
+Nitrogen content, on ash-free basis, ranged from 1.9 to ii.8% (average 6%).
+Intrageneric variability was large( CV = 20 to 42% ). N and pigment contents
+decreased in aging material.
+
+Phosphorus and N contents were positively correlated. At P contents
+higher than 1% there was no more increase in N content. The optimal value of 1%
+was attained in laboratory cultures only. Soil-grown BGA and natural samples had
+concentrations lower than 0.5%, confirming that P availability limits BGA growth
+in natural environments.
+
+Potassium content of the ash-free algal material collected from the field
+(average: 0.5%) was similar to that of faboratory cultures, which indicates that K
+availability probabiy does not limit BGA growth.
+
+Muitivariate analysis showed that physiological state is at least as important
+as the nature of the strain in explaining the variability of the composition.
+
+The wide range of dry matter (0.9-7 %) and ash (27-71%) contents in field
+samples shows thal the weight of a bloom of BGA gives little information about its
+agronomic significance. Average and extreme values of dry matter, ash, and N
+contents of field samples show that N content in | ton of fresh N2-fixing BGA
+averages 1.1 kg but may vary from 0.3 to 3.8 kg.
+
+Algal biomass in rice fields range from a few kilograms to $8 tons fresh
+weight/ha or 500 kg dry weight. N2-fixing algal biomasses range within the same
+limits (Roger and Kulasooriya, 1980; Roger, 1986). Assuming a maximum biomass of
+500 kg dry weight/ha and using average ash and N values obtained for artificial
+blooms and field samples, the potential contribution of a BGA bloom is 14 kg N/ha.
+
+CN values of 4.8-13 show better N availability from BGA than from
+farmyard and green manures. Tirol et al. (1982) showed that N availability from
+BGA to two successive rice crops was similar to that of ammonium sulfate.
+
+ABUNDANCE OF HETEROCYSTOUS BGA IN RICE SOILS AND SOIL-BASED
+INOCULA. ( Roger et al., in press a,b)
+
+Heterocystous BGA in rice soils. The quantitative study of the algal population
+in 102 rice soils from 5 countries showed Nz2-fixing strains in all samples.
+Heterocystous BGA comprised, on the average, 9% of the total algal population.
+Their density ranged from 1 x 102 to 8 x 106 CFU/cm? ( median 6 x 104), was
+higher than 103 CFU/cm? in 95% of the samples, and was positively correlated with
+soil pH and available P.
+
+Nostoc was recorded in 99% of the samples and was the dominant N2-fixing
+genus in 74 % of them. Genera that form mucilaginous colonies (Mostoc ,
+Aphanothece ) and ate less susceptible to grazing (Grant ef 2/1985) were dominant
+in more than 90% of the soils: strains that do not form mucilaginous colonies
+(Anabaena Cafothriz, and Fischerel/a) were present in most soils but were rarely
+
+Notice:
+
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permissi
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+
+dominant. This may indicate that grazing is a major limiting factor in the
+development of blooms of nonmucilaginous strains active in N2-fixation.
+
+No significant correlation was observed between the relative abundance of
+
+the various groups of heterocystous BGA and soil physicochemical properties.
+
+Analysis of soil-based inocuia. Algae were enumerated in 22 samples of soilbased inocula (SBI) collected from Burma, Egypt, and India and produced at IRRI.
+Densities of heterocystous BGA ranged from 5 x 104 to 3 x 10? CFU/g dry weight.
+Average values in multisirain and monostrain SBI were similar (2-3 x 106 CFU/g
+dry weight) and about 100 times lower than in dried laboratory cultures (2 x 108
+CFU/g dry weight).
+The relative abundance of N2-fixing BGA in SB] was low, ranging from 3 t
+
+32% (average 15 %). Among N2-fixing strains, Mosfoc spp. were clearly dominant, |
+
+comprising an average 73% of the CFU. The two most abundant heterocystous
+strains in a given inoculum accounted for an average 95% of the total counts of
+heterocystous BGA, showing that multistrain SB] were rather unbalanced with
+regard to the relative abundance of the various strains.
+
+Chemical analysis showed 78-86% ash (average 80.6%) , 2.1-4.7% C (average
+3.4%) , 0.2-0.8 % N (average 0.5%), and 640-1900 ppm P, indicating that SBI
+contained mostly soil and only about 1% of BGA material.
+
+Ratio between inoculated and indigenous BGA. The average density of
+heterocystous BGA in SBI was 2 x 106 CFU /g dry weight. Applying the
+recommended dose of 10 kg/ha ( Venkataraman ,1981) of this inoculum brings 2 x
+10!1 CFU/ha or 2 x 103 CFU/cm2. This is 150 times less than the average density of
+indigenous N2-fixing BGA in the soils examined (3 x 105 CFU/cm2) . The study of
+the ratio of indigenous heterocystous BGA from 102 soils to inoculated
+heterocystous BGA from 22 SBI showed that in 90% of the cases, indigenous BGA
+in the first centimeter of soil of a one-hectare rice field were more abundant than
+BGA brought by 10 kg of algal inoculum. In about 50% of the cases, the ratio of
+indigenous heterocystous BGA to inoculated BGA was higher than 100.
+
+Discussion. The study showed that multispecies SBI are unbalanced : one or two
+Strains, mostly the Mosfoc spp. dominate. A suitable method for producing a
+balanced multistrain inoculum of known quality would be to produce monospecific
+inocula of various strains, evaluate their concentration in CFU after drying and mix
+them accordingly.
+
+All studied rice soils had heterocystous BGA. In most cases, the
+heterocystous BGA in the quantity of SB] recommended for application were less
+numerous than indigenous ones on a unit-area basis. Despite that, inoculation was
+reportedly successful in soils which, according to our results, contained a fairly high
+level of indigenous heterocvstous BGA. Among other possible explanations, such a
+
+Notice: :
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permiss
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+success might be attributed to the accumulation of P by propagules of BGA
+inoculum (produced with high levels of P), which gives them an initial advantage
+for growth over the propagules of most often P-deficient indigenous BGA (Roger ¢2
+a/, 1986). Since spore germination is photodependent ( Reddy, 1984), inoculated
+propagules applied on soil surface might have better germination than the
+indigenous propagules mixed with the soil. However, such hypothesis need to be
+demonstrated as well as other possible ones not related to BNF.
+
+DYNAMICS OF ALGAL POPULATIONS AND ACETYLENE REDUCING
+ACTIVITY IN SOILS INOCULATED WITH BGA (Reddy and Roger, in press)
+
+The dynamics of inoculated strains of heterocystous BGA and indigenous
+' algae were studied for one month in 1-m?2 microplots of five soils previousiy airdried or oven-dried at 110 9C. Oven drying was performed to assess whether a
+reduction of the indigenous algal population favors the establishment of inoculated
+- BGA. Inoculum was a mixture of dry SBI containing nonindigenous Azbeena
+| vartabilis, Talypothrix tenuis, Aulosira fertilissima, Fischerelia 3p., and Nostoc sp.,
+spread at 20 kg /ha. The same soils were then dried and resubmerged for two
+months to study the effect of controlling algal grazers (a major limiting factor for
+BGA) with neem (Azadirachta indica ) seeds on the revival and dynamics of
+indigenous and inoculated algae. ARA was measured and algal populations were
+enumerated for four weeks as in the first experiment. Then soils were kept flooded
+for another month and the nature and biomass of algae were then determined.
+
+Heat treatment markedly reduced algal populations. Survival in the soils, ranged
+from 4 to 17%. Eukaryotic algae and unicellular BGA were the most affected.
+Heterocystous BGA were more resistant.
+
+Dynamics of algal populations were similar in air-dried and oven-dried
+treatments of a given soil during the month following inoculation . Heterocystous
+BGA populations exhibited poor growth in soils richer in organic matter. In other
+soils, they comprised a significant percentage of the total algal population and
+"became dominant by the 14th day of submersion in two soils. In most cases,
+. indigenous heterocystous BGA were more numerous than inoculated ones. The
+ratio of CFU of indigenous to inoculated heterocystous BGA ranged from 0.1 to 840
+' (average 104). Only on 7 out of 40 occasions were inoculated BGA more numerous
+than indigenous heterocystous BGA. This was observed with no growth or late
+growth of indigenous heterocystous BGA , or after the decline of a bloom of
+indigenous heterocystous BGA.
+
+"Once the soils were dried, two inoculated strains disappeared. During the first
+month following rewetting, heterocystous BGA growth was poor in all soils but
+better in neem-treated plots than in the controls. Indigenous strains were usually
+more abundant than inoculated ones. Only on 4 out of 40 occasions did inoculated
+
+Notice:
+
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permiss
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+heterocystous BGA become more abundant than the indigenous ones. This was |
+observed only after the decline of the indigenous populations of heterocystous BGA."
+
+Establishment of inoculated algae. Counts of inoculated BGA showed no clear
+effect of oven-drying of soil or neem application on the establishment of inoculated
+BGA. But strains markedly differed in ability to persist in the soils. 7 zenu/s was
+the most abundant inoculated strain in 65% of the cases. Despite a low level of
+inoculation, A. /erdii/ssima developed and persisted during the second experiment.
+A. vVariabilis and Nostoc SL significantly multiplied during the first experiment but
+disappeared during the second. 
+Acetylene-reducing activity (ARA) was, on the average, higher in air-dried and
+in neem-treated plots than in oven-dried and non neem-treated plots. ARA was
+correlated with the counts of total heterocystous BGA and indigenous heterocystous
+BGA but not with the counts of inoculated BGA. This indicated that ARA was
+principally due to indigenous BGA. However, correlation coefficients were generally
+higher with total heterocystous BGA than with indigenous heterocystous BGA, .which may indicate some contribution by inoculated BGA. © .
+BGA biomass after two months of submersion Was higher in neem-treated
+plots. in 35 of 40 cases, indigenous strains of algae became’ dominant. However,
+inoculated A/ertilissima developed in two neem-treated soils and became
+dominant in one where it produced a bloom corresponding to 450 kg ‘dry
+weight/ha (35 kg N/ha), the highest biomass recorded in a plot during pus
+experiment. "es
+x 7
+Discussion. The longer persistence of some of ‘the strains and the late
+establishment of blooms of inoculated A. feriidissima in ‘plots of two’ soils treated
+with neem, where this strain developed the highest BGA biomass in the experiment,
+might indicate some potentia! for foreign strain inoculation-in rice soils. However
+establishment of inoculated nonindigenous strains was infrequent in the studied
+soils. This agrees with the results of Grant et al. (1985), showing the. failure ‘of
+nonindigenous inoculated BGA to establish in the field, even’ when grazers: were)
+controlled. The results also confirmed the beneficial effect of neem application . on,
+photodependent BNF reported by the same authors. a, a PE ao
+
+RESEARCH ON AZOLLA 4
+
+Whereas BGA technology is more at an experimental level of large: ‘field
+testing, Azo//e technology has been used for several centuries in China “and
+Vietnam. In these countries, however, environmental and economical. constraints
+limited Azol/a use to about 2 x 106 ha in 1983 (Roger and Watanabe, 1986). Use of |
+Azoila as green manure in China and Vietnam is decreasing, but interest in its use !
+
+.
+Notice: .
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by, copyright Law, in which (
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permissi
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+
+as fish and anima! feed, mineral scavenger, and depollutant has increased
+(Liuchungchu, 1984). In other parts of Asia, Azo//a technology is not beyond smallscale trials except in South Cotabato (Philippines). In this area, high available P,
+9-11 months of rainy. season, well-irrigated rice fields, and the presence of many
+small ponds allowed wide adoption of A pinaata which was then replaced by a
+more efficient strain of 4. a/crophylla ( Watanabe,198 4).
+
+Under optimum conditions (22 °C), maximum biomass is 100 kg N /ha for A.
+pinnata, 140 kg N/hafor A. Aicu/oides , (Watanabe and Berja, 1983), and 190 kg
+N/ha for A. avcropAy//a (Watanabe, 1986). In INSFFER trials average productivity
+per Azol/fa crop was 1.5 kg/m? ( about 30 kg N/ha ) before transplanting and 1.1
+kg /m2 after transplanting (Watanabe in press). At IRRI, the maximum biomass
+was 80 kg N /ha for A. avcrophyl/ain 28 days (Watanabe, in press). Productivity
+discrepancy under optimum and field conditions is due to many constraints in the
+field. Technical constraints in the tropics are as follows :
+
+4 1) Low temperature requirement. Optimum temperature for most species is
+below the average temperature in the tropics. Cool weather is a key to successful
+Azoffa cultivation in Vietnam and China. High temperature and humidity result in
+high pests incidence.
+
+2) Need for P fertilizer. P is the most important nutrient (Watanabe et al,
+1986)
+
+. 3} Insect damage. Insect control is an important economic limitation. If more
+than 200 g carbofuran ai/ha is needed to control insects, benefits are eliminated
+{Kikuchi et al ,1984).
+
+4) Year-round maintenance of inoculum. Because Azoé/a is multiplied
+vegetatively, inoculum must be maintained in nurseries all year and multiplied for
+distribution before field cultivation.
+
+5) Need for good water control.
+
+Research at IRRI has placed emphasis on resistance to adverse temperatures,
+soil and nutritional requirements, insect pests, and availability of Azol/a N to rice .
+a
+
+SCREENING FOR TEMPERATURE
+
+Temperature limitations can be reduced by selecting cold or heat-tolerant
+“strains (Watanabe and Berja, 1983). Among strains tested at_IRRI,_A..a/scropAyHa
+“ #8418 was most tolerant of high temperature {379 day/29° C night (unpublished). J
+
+SOIL PROPERTIES AND AZOLLA GROWTH
+
+test :in-972 Philippine sites used local soil in pots without fertilizer addition and 6
+™ A. pinnata fronds previously starved by 7 days of growth on tapwater. Doubling
+_ time was estimated after 14 days. Soils were classified as highly suitable when
+
+er
+” Faron adaptability in soils of the Philippines (Callo-et al; 1985). / A ‘growth
+
+4
+
+Notice:
+
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which cé
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permissio!
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+
+Azoffa doubling time was less than 3.5 days ; moderately suitable with a doubling
+time of 3.5 to 5.0 days; and nonsuitable with a doubling time longer than 5 days.
+Doubling time was less than 5 days in 40% of the samples growing under full
+sunlight and 34% of those growing in the shade. It was less than 3.5 days in 13% of
+the samples in full sunlight and 8% of those growing in the shade. Without P
+fertilisation, only limited areas have soils suitable for Azo//@ growth .
+
+Soil available P and Azolf/a gtowth (Watanabe and Ramirez, 1984). The
+productivity, N content, and P content of Azo//a grown on 29 soils from 4
+Philippine sites were studied with regard to the soil available P and P sorption
+capacity. Using simultaneously data on available P and P sorption capacity, it was
+possible to calculate a discriminate function separating soils according to their
+Azolfa productivity. Results showed that A. punneta grows satisfactorily without P
+application in soils with Olsen P values higher than 30 mg/kg and P sorption
+capacity lower than 1500 mg P205/100 g. Such conditions are rare in rice soils and’
+P fertilization for Azo/a growth usually is needed. None of the other analyzed soil
+properties (total C, total N, and exchangeable K, Ca, and Mg) correlated with Azo//a
+productivity.
+
+AZOLLA RESPONSE TO P, £, AND Zn IN VARIOUS SOILS, IN RELATION TO
+FLOODW ATER CHEMISTRY (Ali and Watanabe, 1986)
+
+The supply of P,K, andZn to Azoé/a from flooded soils and the kinetics of P,
+K, and Zn in floodwater were studied in pots, using 11 Philippine rice soils, ranging
+from loamy sand to ciay (pH range : 4.7 - 7.7). Treatments were a control ( no
+fertilization), PK, KZn, PZn, and PKZn applied just before Azoé/a inoculation. Azo//s
+was harvested 3 weeks after inoculation.
+
+Phosphorus concentration in the floodwater of P fertilized soils decreased
+tapidly and became similar to that in the control within a week. Phosphate in
+floodwater 1 week after Azoé/@ inoculation was correlated with soil Olsen P (r =
+0.83}, except for one soil. Phosphate application did not increase P content in Azo//2
+at harvest. The K and Zn contents of Azo//a at harvest increased with K and Zn
+application. In two soils, Azo//e biomass was lower in the treatments without K or
+Zn than in the PKZn treatment, but Azo//a analysis showed no K or Zn deficiency.
+
+Azol/a biomass ranged from 9 to 53 g dry weight/m2 and N content from |
+2.1 to 5.2%. Azole N was highly correlated with dry weight (r - 0.953). Dry
+weight and N were highly correlated with P content (r = 0.63-0.55), but not with K
+of Zn, indicating that P supply limited Azof/g@ growth. The critical level of P in
+Azolfa was about 0.15%. Floodwater P was better correlated with Azaf/a P (r =
+0.739) one week after Azo//a inoculation than at 2 or 3 weeks. When floodwater
+P at 1 week was less than 0.1 ppm, AZo//a was P deficient. When floodwater P was _,
+more than 0.4 ppm, P supply to Azo//a was sufficient.
+
+Notice: Lo
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which @a
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permissign
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+
+Pd
+
+PHOSPHATE APPLICATION
+
+Surveys of N and P contents in field-grown Aza//a showed a threshold value
+of P deficiency of 0.4% P in Azod/a (dry weight basis). When Azo//a P was higher
+than 0.4%, N content was about 4% dry weight (Watanabe and Ramirez, 1984: Ali
+and Watanabe, 1986). About 80% of Azoé/a samples collected from fields and
+ponds in the Philippines had less than 0.4% P and 4% N (unpublished). Application
+of P can increase Azo//a growth under economically feasible conditions, especially
+split application of superphosphate which can increase N gains of Azo//a by 4.6 g
+N/g P (Watanabe et al, 1980). Recent datafrom A ancrophyila showed 10 g N/g P
+(unpublished).
+
+Application of P to the inoculum permits its multiplication without P
+application in the main field until it becomes deficient (P<0.2%). P-enriched
+inoculum may be used for rapidly producing a large Azaé/e biomass (unpublished).
+
+EFFECY OF N FERTILIZER
+
+in the absence of competing organisms, BNF by Azov/@ is more tolerant of
+combined N than that by free-living microorganisms. Azolla ARA was reduced by
+about 50% by 10 mM urea-N or ammonium-N and 25 mM of nitrate-N, whereas a
+24-hr exposure to [mM ammonium-N completely repressed ARA in free-living BGA
+{Ito and Watanabe, 1983). /a stu however, competing aquatic plants growing at the
+erpense of foodwater N, may hinder Azo//e growth. In the presence of green algae,
+1.4 mM ammonium -N inhibited A. pinnata growth by 60% (Watanabe et al., 1977).
+
+The Azaf/fa canopy prevents light from penetrating the floodwater, inhibits
+the growth of other phototrophs, and depresses photodependent CO2 uptake. Thus,
+the floodwater pH is lower than in Azo//efree conditions. Azo//a may therefore be
+expected to reduce N losses by ammonia volatilization.
+
+Using the delta '5N technique and Zemze minor as non N2-fizing control, the
+contribution of BNF to N of A.avcrophy//a grown on two soils was estimated to be
+70-100% (Yoneyama et ai, in press).
+
+AZOLLA INSECT PESTS (Mochida et al. in press)
+
+Five Diptera ( Casranomus crassiforceps, C javanus, C kitensis, Polypedilum
+anticum and P suturalis/, one Coleoptera ( Nanophyes sp.), and four Lepidoptera
+{ Ephestiopsis vishnu |webworm] and three species of A/opAi/a (caseworms} were
+recorded as Azo//@ pests in the Philippines. The life cycle of the webworm and
+three caseworms were studied, and their populations were ‘monitored at IRRI
+using light traps and counts on 4. aricrophyi/la and A. pmnata. At 27 %C, Alophila
+life cycle is about 31-32 days and 4péestiopsis , about 20 days. The standing
+’ biomass of 4. microphylla (IRRI No. 418) averaged 1.0 kg fresh weight/m? in
+insecticide-treated plots and 0.7 kg/m? in untreated plots. That of A. pénaala (No.
+
+Notice:
+
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which c:
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permissio
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+10
+
+5) averaged 0.7 kg/m? in insecticide-treated plots and 0.45 /m2 in untreated plots.
+Webworm larval and pupal populations in untreated plots averaged 146/m2 on A.
+
+anucrophylfa and 135/m2 on A. pinneta. Caseworm populations on the same strains
+averaged 57 and 48/m2_ respectively. Azo//a yield loss due to these insects ranged
+from 6 to 64 % for 4. microphylla and from 13 to 57% for A. pinnata Although
+pesticide application was effective for controlling insect pesis, no method is yet
+economically feasible.
+
+AVAILABILITY OF AZOLLA NITROGEN TO RICE (ito and Watanabe, 1985)
+
+Decomposition of Azo//e in water and soil in relation to the availability of
+Azo#fa N to rice plants was determined using '5N as a tracer. When Azo//a was
+placed on the surface of flooded soils, about 66% of its N was lost within 6 weeks.
+Losses were about 30% when Azo//a was incorporated. Rice plants grown in a pot
+absorbed 50% of N from Azoé//a incorporated at transplanting and less than 10% of
+N from Azoffa kept on the water surface. In the field, N availability from
+incorporated Azo//e was higher than that from AzZaé/a placed at the soil surface.
+However, N availability from incorporated Azolla (12-27%) was much lower than
+that in a pot. With late application, 78 days after transplanting, Azo//e
+contribution to grain N was higher than with application 30 or 53 days after
+transplanting.
+
+BIOFERTILIZER GERMPLASM
+
+As part of its BNF program, IRRI has collected a large germplasm of N2-firing
+organisms, and currently acts as an international center for Azoé//e germplasm
+collection and distribution. IRRI maintains the largest collection of Azof/a (168
+strains from 7 species and 4 Aabaenafree species) and of blue-green algae (
+about 200 strains ) isolated from rice fields. A large number of N2-fixing bacteria
+are also preserved. Hundred of sirains of these organisms have been given to
+iaboratories all over the world.
+
+CONCLUSION
+
+Studies on BGA show the presence of indigenous strains in all soiis, and the
+usuai poor establishment of inoculated foreign strains. Attention should therefore
+be given to agriculturai practices that enhance the growth of indigenous strains
+which are already adapted to the environmental conditions and can also be utilized
+for producing inocula. Studies on Azolla confirm that P is a key factor. Insecticide
+and P application to an inocuium of a selected strain might be an economical
+management, permitting Azolla multiplication in the field without further P and
+insecticide application.
+
+Notice:
+
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which cz
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permissio!
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+11
+
+ACKNOWLEDGMENTS. Part of this research was conducted under a scientific
+agreement between IRRI and ORSTOM (France) and supported by the United
+Nations Development Programme.
+
+REFERENCES CITED /
+
+MAli S, Watanabe | (1986) Response of Azolla to P, K, and Zn in different wetland rice
+soils in relation to chemistry of floodwater. Soil Sci Plant Nutr 32 (2) 239- 253._
+| ARzatto DP, Dilag RT, Nec Necessario RS, Wood DM, Tagalog FC, Gapasin DP, Ramirez CM!
+jWatanabe 1(1985) A 14-day Azolla adaptability test on farmer's fields. Philipp Bi
+Crop Sci 10 (3) 129-133.--—-—-. —-—»»
+Grant IF, Roger PA, Watanabe I. 1985. Effect of grazer regulation and algal
+inoculation on photodependent nitrogen fixation in a wetland rice field. Biol Fert
+ils 1 : 61-72.
+to O, Watanabe I (1983) The relationship between combined nitrogen uptake and
+nitrogen fixation in Azol/e-Anabaena sy mbiosis. New Phytol 95 : 647-654.
+o 0, Watanabe | (1985) Availability to rice plants of nitrogen fixed by Azolla. Soil
+Sci Plant Nutr 31 (1) 91-104.
+ikuchi M, Watanabe I, Haws LD (1984) Economic evaluation of Azoila use in rice
+production. pp 569-592 in Organic Matter and Rice. International Rice Research
+Wout PO Box $33, Manila, Philippines.
+iuchungchu (1984) Recent advances in Azolla research. pp 45-54 in Silver WS,
+Wc oeder EC ed, Practical application of Azolla for rice production. Martinus Nijhoff.
+ochida 0, Yoshiyasu Y, Dimaano D. Insect pests on Azo//a in the Philippines.
+Use of Azolla. Internationa! Rice Research Institute, PO Bor 933 Manila, Philippines
+( in press).
+Reddy PM. 1984. Role of chromatic lights in germination of the spores of blue-green
+algae. Arch Hydrobiol Suppl 67 : 299-304.
+Reddy PM, Roger PA Dynamics of algal populations and acetylene reducing activity
+in five soils inoculated with blue-green algae. Biol Fert Soils (in press).
+Roger PA (1986) Effect of algae and aquatic macrophytes on nitrogen dynamics in
+wetland rice fields. Paper presented at the Congress of the Internationa! Soil
+Science Society, Hambourg, Germany, August 13-21 1986.
+Roger PA, Kulasooriya SA (1980) Blue-green algae and rice. International Rice
+Research Institute, PO Box 933, Manila, Philippines. 112 p.
+Roger PA, Watanabe I (1982) Research on algae, blue-green algae and phototrophic
+nitrogen fixation at the International Rice Research institute (1961-1981) :
+summarization, problems, and prospects. IRRI Research Paper Series n& 78, 21 p ,
+International Rice Research Institute, Po Box 933, Manila, Philippines.
+Roger PA, Watanabe ! (1986) Technologies for utilizing biological nitrogen fixation
+in lowland rice : potentialities, current usage, and limiting factors. Fert Res 9 : 39-77
+
+rr ee
+
+Notice:
+
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in which
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permiss
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.
+~~
+
+12
+
+Roger PA, Santiago-Ardales S, Watanabe | (1985) Uniceliular mucilaginous bluegreen algae : impressive blooms but deceptive biofertilizers. Int Rice Res Newsl
+10(2) 27-28.
+
+Roger PA, Tirol A, Ardates S, Watanabe | (1986) Chemical composition of cultures
+and natural samples of N2-fixing blue-green algae from rice fields. Biol Fert Soils 2
+"131-146
+
+Roger PA, Kannayian § , Reddy PM. Abundance of nitrogen-fixing blue- “green algae
+in some rice soils from India. Phykos (in press, a).
+
+- Roger P A, Santiago-Ardales 5, Reddy P M, Watanabe |. The abundance of
+heterocystous blue-green algae in rice soils and inocula used for application in rice
+fields. Biol Fert Soils{ in press, b). ?
+Roger PA, Santiago-Ardales S, Watanabe |. Nitrogen-fixing blue-green algae in rice |
+soils of northern Luzon (Philippines). Phil Agric {in press, c).
+
+Roger PA, Voggesberger .M, Margraf ] (1986d) Nitrogen fixing phototrophic |
+organisms in Ifugao rice terraces ( Philippines ). Phil Agric (in press, d).
+Tirol AC, Roger PA, Watanabe | (1982) Fate of nitrogen from a biue-green alga in a
+flooded rice soil. Soil Sci Plant Nutr 28:559-570
+Venkataraman GS. 1981. Blue-green algae for rice production. A manual for its
+promotion. FAO Soil Bull. n@ 46. 102 p.
+Watanabe | (1984) Use of symbiotic and free- living blue-green algae in fice
+culture. Outlook Agric 13 : 166-192.
+Watanabe I (1985) Limiting factors in increasing N2-fixation in rice fields. Pb 436453 in Biological nitrogen fixation in Africa, Ssali H and Keya SO eds, Univ’ of
+robi Kenya. 540 p.
+atanabe I. Summarized report of INSFFER Azaé/a trials. s Use of Azolla.*
+International Rice Research Institute, POBox 933 Manila; Philippines ( in press).
+atanabe I, Berja (1983) The growth of four species of Azolla as affected by
+ iemparature. Aquatic Botany 15 : 175- 185.
+atanabe I, Berja , Det Rosario DC(1980) Growth of Azolia in paddy fields as
+affected by phosphorus fertilizer. Soil Sci Plant Nutr 26 : 301-307.
+
+WW" atanabe I, Ramirez CM (1984) Relation between soil phosphorus availability and
+Azolia growth. Soil Sci Plant Nutr 30 (4) 595-598. .
+Watanabe I, Roger PA (1984) Nitrogen fixation in wetland rice field. pp 237-276 in
+Subba Rao. Current Development in Biological Nitrogen Fixation.Oxford and IBH pub. —
+
+\Vatanabe I, Espinas CR, Berja NS, Alimagno BV ( 1977) Utilization of Azo//aAnabseenacotiplex as a nitrogen fertilizer for rice. IRRI Research Paper Series n211.
+International Rice Research Institute, POBox 933 Manila, Philippines.
+
+Watanabe I, Roger PA, Ladha JK (1986) Problems in application of biological
+dinitrogen fixation in wetland rice. Paper presented at the INSFFBR Planning
+Meeting-Workshop, Hangzhou , China , September 22-24. 23 p.
+
+AYoneyama T, Ladha JK, Watanabe | (1987) Nodule bacteroid and Anabaena: natural
+15N enrichment in the legume- 2Aizob/um and Arolla-Anabaens symbiotic systems.
+J] Piant Physiol( in press). |
+
+Notice:
+
+The PDFs of journal articles and other documents tha IRRI Library provides, may be protected by copyright Law, in whict
+redistribution is permitted. To copy, to republish, to post to servers. or to redistribute to lists requires prior specific permis
+copyright holder. This documents is provided strictly for your personal, non-commercial research and educational use.

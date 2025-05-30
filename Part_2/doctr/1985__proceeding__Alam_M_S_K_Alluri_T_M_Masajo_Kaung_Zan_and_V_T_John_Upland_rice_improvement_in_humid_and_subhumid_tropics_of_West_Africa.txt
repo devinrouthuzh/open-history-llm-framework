@@ -1,0 +1,753 @@
+UPLAND RICE IMPROVEMENT
+IN HUMID AND SUBHUMID
+TROPICS OF WEST AFRICA
+M. S. ALAM, K. ALLURI, T. M. MASAJO, KAUNG ZAN,
+and V. T. JOHN
+The area (3.4%) and production (1.9%) of rice in Africa are small compared
+with world figures. Fifty percent of the total African rice area is in West
+Africa, which produces 35% of the continent's supply. In some countries
+such as Sierra Leone and Liberia, the annual per capita consumption of rice
+is 100 kg; in others it ranges from 15 to 22 kg. Populous countries such as
+Nigeria import large amounts of rice to bridge the gap between supply and
+demand. Rice is a strategically important crop in the food security system in
+West African Countries.
+IMPORTANCE OF UPLAND RICE
+In Sub-Sahara Africa, upland rice is the most predominant growing system.
+An estimated 2 million ha (50%) of the total rice area in Africa is grown as
+upland rice (18). Upland rice is defined in this paper as "rice grown in
+rainfed, naturally well-drained soils, without surface water accumulation,
+normally without phreatic water supply, and normally not bunded" (14).
+The West Africa Rice Development Association (19) classifies upland rice
+cultivation into four groups: hill rice, flatland rice, upland rice cultivated
+with use of ground water in addition to rain, and upland rice grown with use
+of ground water only. Among these groups, flatland rice is the predominant
+growing ecology and, along with hill rice, is situated in the moist forest zone
+and the humid fringes of the savanna. In both ecologies, rice is cultivated
+under slash-and-burn bush-fallow system and is often intercropped. Fields
+are not bunded and direct seeding is practiced.
+MAJOR CONSTRAINTS
+Upland rice generally yields about 1 t/ha, depending on rainfall and
+management. Major constraints are soil and climate, varieties, diseases and
+insects, cultural practices, and socioeconomic conditions. This paper deals
+with the first three.
+Agronomistbreeder, breeder, IRRI liaison scientist, pathologist, and entomologist, Inter-
+national Institute of Tropical Agriculture, Ibadan: Nigeria.
+
+
+
+236 PROGRESS IN UPLAND RICE RESEARCH
+Soil
+Upland rice soils in humid and subhumid tropics of Africa are fragile,
+erosion prone, and low in water-holding capacity, organic matter content,
+CEC, and nutrient status (especially N). In high-rainfall regions, acidity is
+high and nutrient imbalances are frequently severe.
+Climate
+The quantity, distribution pattern, and reliability of rain are important
+determinants of success of upland rice cultivation. In the humid zone where
+rainfall is high, yields are limited by fungal diseases. Disease severity IS
+increased by low light intensity caused by overcast skies.
+Varieties
+The tall and low-yielding traditional upland rice varieties are generally
+panicle-weight type. They lodge when planted under high density and good
+management with adequate soil moisture. However, most African upland
+rice possess high levels of tolerance for drought, blast, and grain dis-
+coloration.
+Modern, semidwarf varieties perform unpredictably in upland condi-
+tions. Research at the International Institute of Tropical Agriculture (IITA)
+shows that performance of semidwarf varieties in upland conditions is
+variety specific and not a general plant characteristic (3, 10). Some
+semidwarf varieties under favorable soil and moisture conditions and in the
+absence of severe disease pressures have outperformed the traditional
+varieties (10).
+Diseases
+Major diseases of upland rice are blast, leaf scald, grain discoloration, and
+sheath blight. Drought aggravates but is not a prerequisite for blast (6).
+Most improved introductions such as IR43, IR5931-110-1, and UPL Ri-5
+with proven resistance to blast in Asia, have shown susceptibility under
+upland conditions in West Africa. Leaf scald caused by Rhyncosporium
+oryzae is widespread, particularly in humid areas, and it usually occurs late,
+around flowering stage. Sheath blight caused by Thanatephorus cucumeris,
+Frank Donk (Rhizoctonia solani) is particularly severe under high rainfall,
+close planting, and high fertilization. Varieties with good levels of resistance
+to this disease have yet to be identified.
+The most common panicle disease in upland rice is grain discoloration or
+dirty panicle. It is often caused by a group of fungal pathogens, among which
+Sarocladium oryzae (Acrocylindrium oryzae) is the most dominant species
+(16). Soil acidity, highly leached conditions and low CEC, and deficiency of
+Ca, Mg, Zn, and Si have been reported to be implicated in the severity of this
+syndrome (5).
+Insect pests
+More than 80 species of insects attack rice in West Africa but only about 13
+
+
+
+UPLAND RICE IMPROVEMENT IN WEST AFRICA 237
+are considered pests of major importance. Breniere (7) estimated that about
+25% of rice yield losses are caused by insects in general. Stem borers,
+particularly the pink borers (Sesamia calamistis and S. botanephaga ), are the
+most important pests of upland rice in the humid tropics of West Africa. The
+African specific white borer Maliarpha separatella is the most predominant
+species, but because it does not cause deadhearts or white heads it causes
+considerably less damage than the pink borer. Next in importance to the
+pink borers are the grain-sucking bugs Aspavia armigera Fab. and Stenocoris
+southwoodi.
+BREEDING OBJECTIVES AND STRATEGIES
+Upland rice improvement for the humid and subhumid zones of Africa aims
+to develop improved varieties with high yield potential, good seedling and
+vegetative vigor, intermediate plant stature, medium tillering ability,
+maturity ranges of 95-140 d, acceptable grain quality, and sufficient levels of
+tolerance for or resistance to various stresses.
+The breeding approaches involve systematic evaluation of available
+germplasm, introductions, generation of breeding materials and selection,
+and an organized scheme of testing early as well as advanced breeding
+materials to identify superior genotypes. Multilocational testing is a
+combined effort between national programs, International Institute of
+Tropical Agriculture (IITA), Institut de Recherches Agronomiques Tropi-
+cales et des Cultures Vivrières (IRAT), International Rice Research
+Institute (IRRI), and West Africa Rice Development Association
+(WARDA). The major problem in Africa with high yield-potential intro-
+ductions is their susceptibility to drought, blast, and grain discoloration.
+The strategy for upland rice improvement has been to combine specific
+adaptational attributes of local upland varieties with the yield potential of
+unadapted introductions through appropriate hybridization programs
+(crossing and intercrossing).
+Drought resistance
+Using a toposequence transect with life-saving sprinkler irrigation and
+standard varieties at fixed intervals to study the drought line, several entries
+were evaluated for drought resistance. Another field screening approach
+used controlled sprinkler irrigation during the dry season to select superior
+genotypes for drought tolerance and recovery. These approaches have
+identified several superior lines (10, 11).
+Deep-growing and thick roots are associated with drought resistance in
+rice (4, 17). Root length is positively correlated with root thickness (8).
+Selection for deep root systems at IITA is done by evaluating lines for root
+thickness.
+Among African varieties, LAC 23 has thick and deep roots and as such has
+been a standard check variety for root system screening. LAC 23 was used as
+the check for evaluating 500 upland rice accessions from IITA's Genetic
+
+
+
+238 PROGRESS IN UPLAND RICE RESEARCH
+Resources Unit (GRU) Tropical Oryza sativa (TOs) collections from the
+humid regions of West Africa. Sixteen were distinctly superior to LAC 23 in
+thick and deep root system (Table 1). Interestingly, 15 of these originated
+from Liberia, from where the check LAC 23 was selected.
+Multilocation testing
+Entries in the advanced yield trial tested at four different sites in Nigeria
+representing different ecological zones are shown in Table 2. The two high
+yielding varieties ITA 305 and ITA 307 were derived from the cross TOx
+936 (IR43/lguape Cateto). IR43 is an upland selection from IRRI while
+Iguape Cateto is a drought-resistant upland variety with desirable root and
+panicle characters.
+ITA 305, selected specifically for high drought resistance, has shown
+stability at higher yield level than 0S6 (Fig. 1).
+Eight elite lines were tested at two locations in Nigeria, in Onne, situated
+in humid forest ecology, and in Ilorin, representing a transitional zone near
+savanna (Table 3). In 1983, the conditions in Ilorin were favorable, while at
+Onne, the disease pressure was high.
+Screening for acid upland
+Upland soils in some high rainfall areas such as eastern Nigeria have high Al,
+high acidity, and low P. Under severe nutritional imbalance in such areas,
+several IITA lines have shown high tolerance. Results of this test are
+reported elsewhere in this volume (2).
+Table 1. Performance of selected lines with deeper and thicker root system, IITA,
+1983.
+Visual score (0-9)
+Entrya
+Score
+Vigor Leaf Neck
+Grain
+Sheath Panicle
+blast blast discoloration
+blight exsertion
+TOs 5227 Liberia
+1
+0
+1
+3
+2
+3
+TOs 5234 Liberia
+1
+0
+1
+3
+1
+3
+TOs 5243 Liberia
+1
+0
+2
+3
+3
+1
+TOs 5731 Liberia
+1
+0
+1
+3
+4
+3
+TOs 5793 Liberia
+1
+0
+1
+3
+4
+3
+TOs 5797 Liberia
+1
+0
+1
+3
+4
+3
+TOs 5801 Liberia
+1
+0
+2
+3
+3
+5
+TOs 5844 Liberia
+1
+0
+1
+3
+3
+1
+TOs 5852 Liberia
+1
+1
+1
+3
+6
+3
+TOs 5855 Liberia
+3
+0
+2
+5
+3
+3
+TOs 5866 Liberia
+3
+0
+1
+1
+4
+5
+TOs 5880 Liberia
+1
+0
+1
+1
+4
+1
+TOs 9418 Liberia
+1
+1
+1
+3
+5
+7
+TOs 9579 Liberia
+1
+0
+3
+3
+TOs 9591 Liberia
+1
+0
+3
+3
+TOs 5268 Ivory Coast
+1
+0
+1
+5
+3
+1
+LAC 23
+(check) Liberia
+1
+0
+1
+3
+3
+1
+These entries scored 2 for deep and thick root system compared to score of 3 for
+LAC 23. Based on Standard evaluation system for rice (13).
+
+
+
+UPLAND RICE IMPROVEMENT IN WEST AFRICA 239
+Table 2. Promising entries in the Advanced Yield Trial at 4 locations in Nigeria, 1983.
+Plant
+Days
+Yield (kg/ha)
+Entry
+ht
+to
+(cm)
+maturity
+Onne
+Ikenne
+Ibadan llorin
+Mean
+ITA 305
+92
+125
+2470
+2180
+3230
+1650
+2407
+ITA 307
+87
+125
+2700
+1610
+3320
+1500
+2282
+ITA 128
+131
+125
+2370
+1550
+3180
+1620
+2180
+IRAT 170
+116
+120
+2370
+1880
+2040
+1280
+1892
+DJ 12-539-2
+83
+120
+1904
+1280
+2718
+2069
+1992
+OS 6 (check)
+144
+125
+2069
+1081
+1749
+1485
+1596
+Mean
+2330
+1363
+2706
+1408
+2094
+LSD (5%)
+440
+684
+826
+782
+C. V. %
+12
+27
+21
+38
+Yield (kg/ha)
+Yield (kg/ha)
+3,500
+3,500
+3,000
+3,000
+ITA (b=1.08, 305. R2.094)
+2,500
+Average (bI),
+2,500
+2,000
+2,000
+.
+Averoge(b:I)
+1,500
+1 0S6
+1,500
+(b:050,R-0.48)
+1,000
+1,000
+-600 -200 0 200 600 800
+-600 -200 0 200 600 800
+Environmenta index
+1. Regression of yield on environmental index for two upland rice varieties, IITA,
+1983.
+Resistance to blast
+The African rice breeding program focuses on developing superior upland
+varieties with high levels of blast resistance. The following upland varieties
+show durable resistance to blast and are being extensively used as
+donors (15).
+IRAT 13
+OS 6
+IRAT 79
+Moroberekan
+IRAT 109
+LAC 23
+IRAT 133
+ITA 257
+IAC 25
+ITA 116
+Dourado Precose
+Iguape Cateto
+63-83
+One or more of the named varieties, were used in developing a large
+number of improved lines with high levels of blast resistance.
+Among the good yielding varieties, DJ 4-135, DJ 11-307-3-1-5, DJ
+11-541-1, and ITA 117 were highly resistant to leaf blast. Other resistant
+varieties were DJ 11-509, IRAT 147, IRAT 168, IRAT 169, ITA 135, ITA
+138, ITA 174, and ITA 225.
+
+
+
+240 PROGRESS IN UPLAND RICE RESEARCH
+Table 3. Elite upland lines for humid and subhumid tropics. Inter-
+national Institute of Tropical Agriculture, 1983.
+Plant
+Days
+Yield (kg/ha)
+Entry
+ht
+to
+(cm)
+maturity
+Onne
+llorin
+Mean
+ITA 117
+110
+120
+2478
+2340
+2409
+ITA 235
+120
+121
+2500
+1840
+2170
+ITA 118
+109
+129
+2420
+1560
+1990
+ITA 135
+120
+125
+2330
+1620
+1975
+ITA 150
+109
+110
+1980
+1940
+1960
+IR 5931-110-1
+102
+125
+1670
+2240
+1955
+ITA 257
+90
+108
+2140
+1750
+1945
+IRAT 112
+98
+110
+2010
+1840
+1925
+OS 6 (check)
+137
+125
+2030
+1232
+1631
+Mean
+2173
+1818
+LSD (5%)
+350
+800
+C. V. %
+11
+32
+Score
+10
+8
+Aichi Asahi,
+6
+4
+BG90-2
+2
+ITA 257
+9
+2
+3
+4
+5
+Weeks after germination
+2. Blast disease progress in some selected varie-
+ties, IITA, 1984.
+IRAT 104, IRAT 132, TOx 718-1-23, ITA 141, ITA 158, TOx 494-
+SLR, TOx 502-13-SLR, ITA 116, TOx 906-67-3-1, TOx 936-267-1-1, and
+TOx 936-354-2-1 were highly resistant to neck blast. For instance, ITA 257
+had high tolerance for blast under severe stress (Fig. 2).
+Grain discoloration
+Many traditional varieties, while being good sources of blast resistance, also
+possess high tolerance for grain discoloration. The following lines, which
+have shown good tolerance for grain discoloration under high rainfall
+conditions at Onne, were derived from crosses involving such traditional
+varieties:
+
+
+
+UPLAND RICE IMPROVEMENT IN WEST AFRICA
+241
+Table 4. Physicochemical aspects of elite upland lines. (9).
+Lengtha Shapea Chalkiness? Gel Amylose
+Gel
+Entry
+(1-7)
+(1-9)
+(0-9)
+tempa
+(%)
+consistency
+(mm)
+ITA 117
+3
+5
+1
+L
+25.9
+86
+ITA 141
+1
+1
+1
+HI/L
+20.1
+73
+ITA 150
+3
+5
+1
+IL
+23.7
+43
+ITA 257
+1
+5
+1
+HIL
+20.0
+84
+IRAT 112
+1
+5
+5
+L
+24.0
+53
+IR 5931-110-1
+5
+5
+5
+L
+28.5
+24
+OS6
+3
+5
+5
+L
+21.5
+56
+Ratings are based on Standard evaluation system for rice (13). L= Low, I = Intermediate,
+and H = High.
+Fixed lines
+Selections from TOx crosses
+ITA 117
+TOx 936
+ITA 118
+TOx 955
+ITA 135
+TOx 1753
+ITA 141
+TOx 1757
+ITA 182
+TOx 1768
+ITA 235
+TOx 1857
+ITA 257
+IRAT 104
+IRAT 170
+Resistance to insect pests
+The strategy for insect control at IITA has been mainly through resistance
+breeding. Resistance breeding success depends on suitable and reliable
+screening techniques. At IITA, techniques for varietal screening have been
+developed (12). A total of 1,296 lines for pink borer and 2,000 lines for white
+borer have been evaluated. As a result, six entries (W1263, Taichung 16,
+SML 81 B, Sikasso, DNJ146, and DNJ171) for pink borer and five entries
+(TKM 6, ITA 6-4-2, ITA 7-7-2, IR 1168-76, and IR 1561-38-6-5) for white
+borer have been identified as sources of resistance (1).
+Superior grain quality
+One objective of IITA's upland rice improvement program has been to
+develop rice varieties with superior grain characteristics. This objective has
+been realized in several elite upland lines (Table 4).
+PROMISING SELECTIONS IN AFRICA
+In tests with materials originating from diverse sources, several improved
+lines have been found to be promising for African uplands (Table 5).
+
+
+
+242 PROGRESS IN UPLAND RICE RESI EARCH
+- 8
+8
+a 0 & a $ 8 I 8 a
+E
+8
+o 3 3 1 1 1 2 1
+1 o 5 5 L
+I
+3 :
+4 3 5 3 2
+N o
+I
+5 3 3 2 4 3 4 3 4 2 2 2 4 3
+I  3 I
+2 4
+3
+do
+I 8 I - 2
+2V 3 2 2
+I
+3 1 1 2 2r 2 2 2 Cr - 2 6 -
+3
+E
+3 1 C 3 o 2 o 2 2 2
+8
+I 3 3 :
+4 5 4 3 2 2 4 3 2 3 2 3 3 5 a 3 2 €
+8
+à
+I I E
+- 2 e 8 e 8 E a  e 8 8 a   2 8
+I
+:
+f
+I E
+2 8 8 8 e e 8 a 3 - a 6 0 6 8 € 9 I
+0 I
+8
+I
+8
+u
+& 8 E $ e e E 3 I 8 3 5 8 I I F
+à
+I
+3 3 3 3 3 E E E E E E E 3 &
+I
+I
+E
+8 la
+
+
+
+UPLAND RICE IMPROVEMENT IN WEST AFRICA 243
+FUTURE EMPHASIS
+Hybridization programs should be expanded to generate more and diverse
+materials for the different upland rice-growing environments of Africa.
+Such an expanded breeding program will have for its base improved and
+adapted germplasm developed and selected from within Africa and will use
+introduced varieties as possible donors of plant type, earliness, yield
+potential, and better grain quality.
+Mass-screening methods for drought resistance to allow for systematic
+evaluation of all breeding lines are needed to ensure that only those with
+acceptable tolerance levels are kept. Selection for genotypes with a deep and
+thick root system in the early segregating generations should be continued.
+To hasten identification of breeding lines with durable resistance,
+screening for blast must be done at key sites within the major rice-growing
+regions. Such a multilocational testing scheme would also yield information
+on differences in virulence of the blast pathogen in the key production areas.
+Studies of grain discoloration, sheath blight, and leaf scald diseases should
+be conducted and be the basis of practical screening methodologies to
+support the breeding program. Efforts to obtain quantitative figures on crop
+losses due to stem borers and grain-sucking bugs must be emphasized.
+Studies on how to develop suitable screening techniques for grain-sucking
+bugs (Aspavia armigera and Stenocoris sourhwoodi) must be started and stem
+borer screening given more emphasis.
+Collaboration among national, regional, and international programs to
+promote better interaction among rice scientists and assist in the exchange of
+rice germplasm and information is essential to more rapid growth of rice
+varietal improvement work in Africa.
+REFERENCES CITED
+1. Alam, M. S., V. T. John, and Kaung Zan. 1984. Insect pests and diseases ofrice in Africa.
+Paper presented at the Rice Workshop, Lusaka, Zambia.
+2. Alluri, K. 1986. Screening rice varieties in acid upland soils. Pages 263-270 in Progress in
+upland rice research. Proceedings of the 1985 Jakarta conference. International Rice
+Research Institute, Los Banos, Philippines.
+3. Alluri, K., I. C. Mahapatra, and T. L. Lawson. 1979. Production constraints for upland rice
+in West Africa. Paper presented at Annual Research Conference in soil and climatic
+resources and constraints in relation to food crop production in West Africa, International
+Institute of Tropical Agriculture, Ibadan.
+4. Alluri, K., J. Yamaguchi, J. C. Adja, and K. Zan. 1982. Breeding and selection for plant
+type in dryland rice. Pages 293-300 in Drought resistance in crops with emphasis on rice.
+International Rice Research Institute, Los Banos, Philippines.
+5. Ayotade, K. A., and E. A. Salako. 1980. Reaction ofwetland rice to dirty panicle diseases
+and influence of soil type and fertilization. Int. Rice Res. Newsl. 5:16-17.
+6. Bideaux, J. M. 1978. Screening for horizontal resistance in rice blast (Pyricularia oryza) in
+Africa. Pages 159-174in Rice in Africa. I. W. Buddenhagen and G. Parsley, eds. Academic
+Press, London.
+7. Breniere, J. 1969. Importance des problems entomologiques dans le development de la
+Riziculture de l'Afrique de l'Ouest. l'Agmn. Trop. 24(10):906-927.
+
+
+
+244
+PROGRESS IN UPLAND RICE RESEARCH
+8. Ekanayake, I. J. 1982. Inheritance of root characters in rice and the relation to drought
+resistance. MS thesis, University of the Philippines at Los Banos, Los Banos, Philippines.
+9. International Institute of Tropical Agriculture. 1980. Annual report for 1979. Ibadan,
+Nigeria.
+10. International Institute of Tropical Agriculture. 1981. Annual report for 1980. Ibadan,
+Nigeria.
+11. International Institute of Tropical Agriculture. 1982. Annual report for 1981. Ibadan,
+Nigeria.
+12. International Institute of Tropical Agriculture. 1983. Annual report for 1982. Ibadan,
+Nigeria.
+13. International Rice Research Institute. 1980. Standard evaluation system for rice. Los
+Banos, Philippines.
+14. International Ricel Research Institute. 1984. An overview of upland rice research. Proceed-
+ings of the 1982 Bouaké, Ivory Coast upland rice workshop. Los Banos, Philippines.
+15. John, V. T., and J. M. Bonman. 1985. Recent progress in international research on blast
+resistance. Pages 285-293 in Progress in upland rice research. Proceedings of the 1985
+Jakarta confèrence. International Rice Research Institute, Los Banos, Philippines.
+16. Ngala, G. N. 1980. Studies on grain and panicle diseases of rice. MS thesis, University of
+Ibadan, Ibadan, Nigeria.
+17. O'Toole, J. C., and' T. T. Chang. 1979. Drought resistance in cereal rice: a case study. Pages
+373-405 in Stress physiology in crop plants. H. Mussell and R. Staples, eds. John Wiley and
+Sons, New York.
+18. That, T. T. 1982. Potentialities and constraints of rainfed lowland rice development in
+Tropical Africa. IRC Newsl. 31:1-16.
+19. West African Rice Development Association. 1984. Upland rice in West Africa. Pages
+21-43 in An overview of upland rice research. Proceedings ofthe 1982 Bouaké, Ivory Coast
+upland rice workshop. International Rice Research Institute, Los Baros, Philippines.
